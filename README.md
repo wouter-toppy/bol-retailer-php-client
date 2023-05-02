@@ -1,11 +1,11 @@
 # Bol.com Retailer API client for PHP
-This is an open source PHP client for the [Bol.com Retailer API](https://api.bol.com/retailer/public/Retailer-API/v8/releasenotes.html) version 8.8.
+This is an open source PHP client for the [Bol.com Retailer API](https://api.bol.com/retailer/public/Retailer-API/v10/releasenotes.html) version 10.0 (BETA).
 
 ## Installation
 This project can easily be installed through Composer:
 
 ```
-composer require picqer/bol-retailer-php-client "^8"
+composer require picqer/bol-retailer-php-client "^10"
 ```
 
 ## Usage
